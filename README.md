@@ -8,18 +8,18 @@ Guided project from Dataquest (dataquest.io) that performs an Exploratory Data A
 
 ### File Descriptions:
 - NYC_SAT_scores.ipynb, Jupyter notebook that contains the code holds the EDA project
-- schools/ap_2020.csv, dataset on schools offering AP (Advanced Placement) classes
-- schools/class_size.csv, dataset on class sizes for each school
-- schools/demographics.csv, dataset on demographics for each school
-- schools/hs_directory.csv, information on each of the schools in the survey
-- schools/sat_results.csv, SAT scores for each of the NYC schools
+- ap_2020.csv, dataset on schools offering AP (Advanced Placement) classes
+- class_size.csv, dataset on class sizes for each school
+- demographics.csv, dataset on demographics for each school
+- hs_directory.csv, information on each of the schools in the survey
+- sat_results.csv, SAT scores for each of the NYC schools
 #### Survey data is in two files:
-- schools/survey_all.txt
-- schools/survey_d75.txt
+- survey_all.txt
+- survey_d75.txt
 #### Survey Dictionary:
-- schools/Survey_Dictionary.csv, file that contains notes on each of the survey fields.  This was created from the original excel file for simpler importing into the project
+- Survey_Dictionary.csv, file that contains notes on each of the survey fields.  This was created from the original excel file for simpler importing into the project
 
 ### Viewing and Running the project:
-- Download the main project file and the folder 'schools'.
-- Place both files in a local directory
-- Run project
+- Download the main project file and other files.
+- Place data files into a folder called 'schools' with the main project file
+- Run project, it will import the files from the 'schools' directory
